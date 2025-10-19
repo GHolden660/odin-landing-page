@@ -156,6 +156,19 @@ h2 {
     margin: 0;
 }
 
+.footer {
+    background-color:#1F2937;
+    color:#E5E7EB;
+}
+
+.footer p {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+
 ul {
     list-style-type: none;   
     padding: 0;
