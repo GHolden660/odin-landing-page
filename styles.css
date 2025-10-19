@@ -3,9 +3,39 @@
 }
 
 h1 {
-    color: white;  
+    color: #F9FAF8;
 }
 
 .container {
     background-color: #1F2937;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;  
+    justify-content: space-between; 
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;   
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
 }
