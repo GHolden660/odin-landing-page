@@ -132,6 +132,7 @@ h2 {
     margin: 40px;
     padding: 20px;
     gap: 20px;
+    border-radius: 10px;
 }
 
 .call-to-action-button {
